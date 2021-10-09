@@ -1,0 +1,1 @@
+Well just trying to understand the basics of html and how to use it to make a website before i get into rails
